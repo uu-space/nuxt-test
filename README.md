@@ -1,1 +1,1 @@
-# nuxt-test
+# Nuxt 3 Test
